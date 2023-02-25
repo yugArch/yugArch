@@ -1,4 +1,4 @@
-### Hi,I Am Yug. 👋
+### Hi, I'm Yug. 
 
 #### OS:
 
@@ -13,11 +13,16 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Python](https://img.shields.io/badge/-Python-FCA121?style=flat-square&logo=python)
+![Markdown](https://img.shields.io/badge/-Markdown-FCA121?style=flat-square&logo=markdown)
 
 #### Others
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![CodeBerg](https://img.shields.io/badge/-CodeBerg-FCA121?style=flat-square&logo=codeberg)
 
+
+
+
+⭐️ ⭐️ From [yug](https://github.com/yugArch) 
 
 
 
