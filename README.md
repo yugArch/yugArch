@@ -6,7 +6,7 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![ArchLinux](http://img.shields.io/badge/-ArchLinux-0078D6?style=flat-square&logo=archlinux&logoColor=ffffff)
 
-#### Tools & Technologies;
+#### Tools
 
 ![](https://img.shields.io/badge/Editor-VS_Codium-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
