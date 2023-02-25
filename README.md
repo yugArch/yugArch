@@ -23,7 +23,7 @@
 ![CodeBerg](https://img.shields.io/badge/-CodeBerg-FCA121?style=flat-square&logo=codeberg)
 
 
-⭐️ ⭐️ From [yug](https://github.com/yugArch) 
+From [yug](https://github.com/yugArch) 
 
 
 
