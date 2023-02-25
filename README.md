@@ -1,5 +1,8 @@
 ### Hi, I'm Yug.
 
+I am from colombia 
+- I am a computer/programming enthusiast, currently I am a student of cloud and application programming. I would love to learn web programming.
+
 #### languages
 <a href="/docs/readme_es.md">Español</a>
 ·
@@ -21,9 +24,3 @@
 #### Others
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![CodeBerg](https://img.shields.io/badge/-CodeBerg-FCA121?style=flat-square&logo=codeberg)
-
-
-From [yug](https://github.com/yugArch) 
-
-
-
