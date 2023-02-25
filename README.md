@@ -15,5 +15,4 @@
 #### Tools
 
 ![Vscodium](https://img.shields.io/badge/VS_Codium-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![Markdown](https://img.shields.io/badge/-Markdown-FCA121?style=flat-square&logo=markdown)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-FCA121?style=flat-square&logo=virtualbox)
