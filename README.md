@@ -1,6 +1,4 @@
 ### Hi, I'm Yug.
-
-I am from colombia 
 - I am a computer/programming enthusiast, currently I am a student of cloud and application programming. I would love to learn web programming.
 
 #### languages
@@ -16,7 +14,3 @@ I am from colombia
 
 ![](https://img.shields.io/badge/Editor-VS_Codium-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![Markdown](https://img.shields.io/badge/-Markdown-FCA121?style=flat-square&logo=markdown)
-
-#### Others
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![CodeBerg](https://img.shields.io/badge/-CodeBerg-FCA121?style=flat-square&logo=codeberg)
