@@ -1,8 +1,7 @@
 ### Hi, I'm Yug. 
 
-#### OS:
+#### OS & Virtual Machine
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-#### VM
 ![ArchLinux](http://img.shields.io/badge/-ArchLinux-0078D6?style=flat-square&logo=archlinux&logoColor=ffffff)
 
 #### Tools
