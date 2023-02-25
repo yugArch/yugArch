@@ -5,6 +5,8 @@
 <a href="/docs/readme_es.md">Español</a>
 ·
 <a href="/docs/readme_pt-BR.md">Português Brasileiro</a>
+·
+<a href="/docs/readme_en.md">English (A1)</a>
 
 #### OS & Virtual Machine
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
