@@ -1,4 +1,9 @@
-### Hi, I'm Yug. 
+### Hi, I'm Yug.
+
+#### languages
+<a href="/docs/readme_es.md">Español</a>
+·
+<a href="/docs/readme_pt-BR.md">Português Brasileiro</a>
 
 #### OS & Virtual Machine
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
@@ -16,8 +21,6 @@
 #### Others
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![CodeBerg](https://img.shields.io/badge/-CodeBerg-FCA121?style=flat-square&logo=codeberg)
-
-
 
 
 ⭐️ ⭐️ From [yug](https://github.com/yugArch) 
