@@ -1,4 +1,3 @@
-### Hi, I'm Yug. 
 #### Software & Tools
 
 ![Windows](http://img.shields.io/badge/Windows-OS-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
