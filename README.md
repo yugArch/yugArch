@@ -1,3 +1,7 @@
+#### Hi I'm Yug.
+
+<p>I'm from Colombia, I'm studying <strong>Python, Html, Php, Sql, Css, Javascript y React.</strong> </p>
+
 #### Software & Tools
 
 ![Windows](http://img.shields.io/badge/Windows-OS-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
