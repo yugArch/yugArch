@@ -13,9 +13,3 @@
 <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=e0e0e0"/> </a>
 <img src="https://img.shields.io/badge/Shell-Git-informational?style=flat&logo=git&logoColor=white&color=e0e0e0"/> </a>
 --
-#### Languages
-<a href="/docs/readme_es.md">Español</a>
-·
-<a href="/docs/readme_pt-BR.md">Português Brasileiro</a>
-·
-<a href="/docs/readme_en.md">English (A1)</a>
