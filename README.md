@@ -1,6 +1,6 @@
 #### Hi I'm Yug.
 
-<p>I'm from <i>Colombia</i>, I'm studying <strong>Python, Html, Php, Sql, Css, Javascript y React.</strong> </p> 
+<p>I'm from <i>Colombia</i>, I'm studying <strong>Python, Html, Sql, Css & Javascript.</strong> </p> 
 I optimize laptops/pc with <a href="https://www.hoptodesk.com/">HopTopDesk</a>
 
 #### Software & Tools
