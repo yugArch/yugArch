@@ -1,7 +1,7 @@
 #### Hi I'm Yug.
 
 <p>I'm from <i>Colombia</i>, I'm studying <strong>Python, Html, Sql, Css & Javascript.</strong> </p> 
-I optimize laptops/pc with <a href="https://www.hoptodesk.com/">HopTopDesk</a>
+<p>I optimize laptops/pc with <strong><a href="https://www.hoptodesk.com/">HopTopDesk</a></strong> </p>
 
 #### Software & Tools
 
