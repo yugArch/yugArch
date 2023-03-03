@@ -6,6 +6,7 @@
 #### Software & Tools
 
 ![Windows](http://img.shields.io/badge/Windows-OS-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+![ArchLinux](http://img.shields.io/badge/ArchLinux-OS-0078D6?style=flat-square&logo=archlinux&logoColor=ffffff)
 ![Vscodium](https://img.shields.io/badge/VSCodium-Editor-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8) 
 
 
