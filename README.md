@@ -14,9 +14,17 @@
 ![Obsidian](https://img.shields.io/badge/Obsidian-informational?style=flat&logo=obsidian&logoColor=white&color=DA14F6)
 
 - shells 
-<img src="https://img.shields.io/badge/powershell-informational?style=flat&logo=powershell&logoColor=white&color=4167F4"/> </a>
+<img src="https://img.shields.io/badge/Powershell-informational?style=flat&logo=powershell&logoColor=white&color=4167F4"/> </a>
 <img src="https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=000000"/> </a>
 <img src="https://img.shields.io/badge/WindowsTerminal-informational?style=flat&logo=windowsterminal&logoColor=white&color=000000"/> </a>
+
+
+#### languages
+<a href="/docs/readme_es.md">Español</a>
+·
+<a href="/docs/readme_pt-BR.md">Português Brasileiro</a>
+·
+<a href="/docs/readme_en.md">English (A1)</a>
 
 
 <div align="center">
