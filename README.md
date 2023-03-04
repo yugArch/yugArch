@@ -15,6 +15,7 @@
 - shells 
 <img src="https://img.shields.io/badge/powershell-informational?style=flat&logo=powershell&logoColor=white&color=4167F4"/> </a>
 <img src="https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=000000"/> </a>
+<img src="https://img.shields.io/badge/WindowsTerminal-informational?style=flat&logo=windowsterminal&logoColor=white&color=000000"/> </a>
 
 
 <div align="center">
