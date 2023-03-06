@@ -25,8 +25,3 @@
 <a href="/docs/readme_pt-BR.md">Português Brasileiro</a>
 ·
 <a href="/docs/readme_en.md">English (A1)</a>
-
-
-<div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
-</div>
