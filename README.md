@@ -1,7 +1,6 @@
 #### Hi I'm Yug.
 
 <p>I'm from <i>Colombia</i>, I'm studying <strong>programming.</strong> Passionate about computing.</p>
-<p>I optimize laptops/pc with <strong><a href="https://www.hoptodesk.com/">HopTopDesk</a></strong> </p>
 
 - OS 
 ![Windows](http://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
@@ -12,6 +11,7 @@
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-informational?style=flat&logo=virtualbox&logoColor=white&color=0078D6)
 ![Markdown](https://img.shields.io/badge/Markdown-informational?style=flat&logo=markdown&logoColor=white&color=000000)
 ![Obsidian](https://img.shields.io/badge/Obsidian-informational?style=flat&logo=obsidian&logoColor=white&color=AB47BC)
+
 
 - shells 
 <img src="https://img.shields.io/badge/Powershell-informational?style=flat&logo=powershell&logoColor=white&color=4167F4"/> </a>
